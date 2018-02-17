@@ -14,10 +14,6 @@
   color: white;
 }
 
-.App-title {
-  font-size: 1.5em;
-}
-
 .App-intro {
   font-size: large;
 }
@@ -28,17 +24,13 @@
 }
 
 .Todo-App {
-  padding-top: 20px;
+  padding-top:20px;
   display: inline-block;
   text-align: left;
 }
 
-.Todo-List {
-  text-align: left;
-}
-
 input {
-  font-size: 20px;
+  font-size: 20px
 }
 
 ul {
